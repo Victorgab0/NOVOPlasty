@@ -1,5 +1,5 @@
 # NOVOPlasty - The organelle assembler and heteroplasmy caller
-
+#Esto me sirve para ensamblar plasmidos y tambien extraer genes
 NOVOPlasty is a de novo assembler and heteroplasmy/variance caller for short circular genomes.  
 
 **Last updates: 20/07/23 version 4.3.3**  
